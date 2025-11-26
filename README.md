@@ -31,17 +31,16 @@ They are organized into folders for easy access.
 
 
 🌍 Global Certifications  
-
   📁 Oracle <br>
-      📁 OCI Data Science
+      📁 OCI Data Science<br>
           - [OCI Data Science Badge](Global%20Certifications/Oracle/OCI%20Data%20Science/Badge.jpg)
           - [OCI Data Science Certificate (JPG)](Global%20Certifications/Oracle/OCI%20Data%20Science/Certificate.jpg)
           - [OCI Data Science Certificate (PDF)](Global%20Certifications/Oracle/OCI%20Data%20Science/Certificate.pdf) 
-      📁 OCI Generative AI
+      📁 OCI Generative AI<br>
           - [OCI Generative AI Badge](Global%20Certifications/Oracle/OCI%20Generative%20AI/Badge.jpg)
           - [OCI Generative AI Certificate (JPG)](Global%20Certifications/Oracle/OCI%20Generative%20AI/Certificate.jpg)
           - [OCI Generative AI Certificate (PDF)](Global%20Certifications/Oracle/OCI%20Generative%20AI/Certificate.pdf)          
-      📁 Oracle AI Vector Search
+      📁 Oracle AI Vector Search<br>
           - [Oracle AI Vector Search Badge](Global%20Certifications/Oracle/Oracle%20AI%20Vector%20Search/Badge.jpg)
           - [Oracle AI Vector Search Certificate (JPG)](Global%20Certifications/Oracle/Oracle%20AI%20Vector%20Search/Certificate.jpg)
           - [Oracle AI Vector Search Certificate (PDF)](Global%20Certifications/Oracle/Oracle%20AI%20Vector%20Search/Certificate.pdf)
