@@ -32,7 +32,7 @@ They are organized into folders for easy access.
 
 🌍 Global Certifications  
 
-  📁 Oracle
+  📁 Oracle <br>
       📁 OCI Data Science
           - [OCI Data Science Badge](Global%20Certifications/Oracle/OCI%20Data%20Science/Badge.jpg)
           - [OCI Data Science Certificate (JPG)](Global%20Certifications/Oracle/OCI%20Data%20Science/Certificate.jpg)
