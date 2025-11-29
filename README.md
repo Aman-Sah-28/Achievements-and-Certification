@@ -16,6 +16,7 @@ They are organized into folders for easy access.
 
 💻 Bootcamps  
 - [Cyber Security Certificate](Bootcamps/cyber%20security.jpg)
+- [Be10X Certificate](Bootcamps/Be10X%20Certificate.pdf)
   
 
 📖 Constitution of India  
